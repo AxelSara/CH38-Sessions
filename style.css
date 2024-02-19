@@ -1,0 +1,13 @@
+/*
+ * Custom stylesheet
+ * CSS: Cascading style sheet
+ */
+/* Tag selector*/
+body{
+    background-color: #296073;
+    color: #ADC5CF;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+main{
+    text-align: center;
+}
